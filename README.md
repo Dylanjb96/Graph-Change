@@ -12,8 +12,8 @@ This repository contains a program that generates a large number of git commits 
 - This results in a filled-in contribution graph, even if no actual work was done on those days.
 
 ## How to run it
-- In the command terminal type in: g++ -std=c++17 main.cpp random_commits.exe (Or whichever exe name you want to add)
-- Then run on the terminal random_commits.exe (Or whichever exe name you create)
+- In the command terminal type in: **g++ -std=c++17 main.cpp random_commits.exe** (Or whichever exe name you want to add)
+- Then run on the terminal **random_commits.exe** (Or whichever exe name you create)
 
 ## Consequences and Risks
 
