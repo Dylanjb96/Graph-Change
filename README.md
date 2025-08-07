@@ -11,6 +11,14 @@ This repository contains a program that generates a large number of git commits 
 - It creates commits with those dates by modifying a JSON file and committing with the `--date` option.
 - This results in a filled-in contribution graph, even if no actual work was done on those days.
 
+## Cloning This Repository
+
+To clone this repository to your local machine, use the following command:
+
+```bash
+git clone https://github.com/Dylanjb96/Graph-Change.git
+```
+
 ## How to run it
 - In the command terminal type in: **g++ -std=c++17 main.cpp random_commits.exe** (Or whichever exe name you want to add)
 - Then run on the terminal **random_commits.exe** (Or whichever exe name you create)
